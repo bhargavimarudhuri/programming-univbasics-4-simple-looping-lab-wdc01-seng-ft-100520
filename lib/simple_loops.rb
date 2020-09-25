@@ -7,7 +7,7 @@ def loop_message_five_times(string)
 end  
 
 def loop_message_n_times(message_string, integer)
-  
+  count = 0
 end
 
 def output_array(array)
